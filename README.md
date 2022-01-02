@@ -1,2 +1,3 @@
-# book_summaries
+# Book Summaries
+
 Subjective book summaries that I have read.
